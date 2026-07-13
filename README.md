@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/praveenrajkumar2003">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -53,8 +53,10 @@ Become a Software Engineer specializing in Full Stack Development.
 ---
 
 # 🌐 Portfolio
-
-> Coming Soon 🚀
+<p>
+<a href="https://mern-portfolio-website-xi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 ---
 
